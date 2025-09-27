@@ -47,7 +47,7 @@ See here on how to [build GitHub CLI from source](docs/install_source.md).
 
 ### GitHub Codespaces
 
-To add GitHub CLI to your codespace, add the following to your [devcontainer file](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-features-to-a-devcontainer-file):
+To add GitHub CLI to your codespace, add the following to your [devcontainer file](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-features-to-a-devcontainer-file): 
 
 ```json
 "features": {
